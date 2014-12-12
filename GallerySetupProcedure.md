@@ -62,7 +62,16 @@ Should take about 10 minutes
 6.  Check to make sure they work! (Replace batteries if needed with the rechargeable AAs)
 
 #Maximillian Lawrence
-1.
+1.  Turn on MacMini. Tiny button under bottom right
+2.  Turn on both monitors
+3.  Type in: forrestmims
+4.  Open MAX Standalone4 App on desktop
+5.  In the patch, change loop length to 150 and tempo to 120
+6.  scroll down and click load read WDC.mid
+7.  Doubleclick on p FILTER, it'll open a new window
+8.  Go back to original window and hit white box (above TEMPO-osc) to start music
+9.  Go into Processing, open recent, Surfing_Maxtroids and run. Drag it to the larger monitor.
+10.  File > Open Recent > Liquid_Dolly and run.
 
 #Tara Webb
 1.  Turn on computer (make sure logged in as DMDAdmin)
