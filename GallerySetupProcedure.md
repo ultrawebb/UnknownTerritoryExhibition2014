@@ -66,10 +66,11 @@ Should take about 10 minutes
 
 #Tara Webb
 1.  Turn on computer
-2.  Open TSPS - this will engage Kinect - there's a calibration image on the desktop. It's stored as a TIFF file.
+2.  Turn on projector with remote
+3.  Open TSPS - this will engage Kinect - there's a calibration image on the desktop. It's stored as a TIFF file.
 To calibrate - there's some tricks to this, but it's not a huge thing if it's totally primed.  I will fill this info in later.
 Open Bowler_Trails app - should automatically run to the projector.
 Contingency: if app doesn't work, open Bowler_Trails in Processing and run using "Present" in the Sketch dropdown menu.
-3.  Turn on switches for el-wire (2 of them)
-4.  Turn on projector with remote 
+4.  Turn on switches for el-wire (2 of them)
+5.  Turn on projector with remote 
 
