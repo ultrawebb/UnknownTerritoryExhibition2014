@@ -3,11 +3,17 @@ UnknownTerritoryExhibition2014
 A place to track the Unknown Territory 2014 exhibition
 
 Opening Reception: December 11, 6 - 9pm
+
 Exhibition Dates: December 11 - 20
+
 Gallery hours: December 12, 13, 17, 18, 19, 20 from 12pm - 6pm
+
 Installation was: sunday december 7. through dec 10.
+
 Gallery Dimensions
+
 100 feet long by 47 feed wide box
+
 3 fireplaces to heat the space!
 
 Exhibition Description
