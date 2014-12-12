@@ -50,7 +50,7 @@ Should take about 10 minutes
 3.  Elegy For A Home - just turn phone on or recharge if batteries low
 4.  Don't turn off the app
 
-#Michale Kiley
+#Michael Kiley
 1.  Turn on computer. DVD will play automatically.
 
 #In(determinate) Duet
@@ -65,12 +65,12 @@ Should take about 10 minutes
 1.
 
 #Tara Webb
-1.  Turn on computer
+1.  Turn on computer (make sure logged in as DMDAdmin)
 2.  Turn on projector with remote
 3.  Open TSPS - this will engage Kinect - there's a calibration image on the desktop. It's stored as a TIFF file.
 To calibrate - there's some tricks to this, but it's not a huge thing if it's totally primed.  I will fill this info in later.
 Open Bowler_Trails app - should automatically run to the projector.
-Contingency: if app doesn't work, open Bowler_Trails in Processing and run using "Present" in the Sketch dropdown menu.
+Contingency: if app doesn't work, open Bowler_Trails in Processing and run using "Present" in the Sketch dropdown menu. Note: make sure mirroring is in. If not, it's in the System Preferences > Displays > Arrangement > check Mirror Displays
 4.  Turn on switches for el-wire (2 of them)
 5.  Turn on projector with remote 
 
