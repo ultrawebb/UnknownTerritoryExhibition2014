@@ -1,6 +1,6 @@
 Set-up Procedure
 ================
-Should take about 10 minutes
+note: I have tried to leave all computers running but just switch off the monitors and close laptop lids. I did this by leaving the lights on in the room. As long as no one hit the switches off, you only need to plug in Jacob's Right Cheek, turn all monitors on, and open laptop lids and make sure sketches/tsps are still running and switch on Mike's dance piece. Instructions for hard reset of all pieces is below.
 
 #Cinema
 1.  Get ladder
