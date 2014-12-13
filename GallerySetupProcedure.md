@@ -21,7 +21,7 @@ note: I have tried to leave all computers running but just switch off the monito
 4.  Keyboard is hidden above coin box behind flap
 5.  If RaspbPi is not already on, unplug and replug in power to it (above keyboard hidden area)
 6.  Once terminal comes up, do `cd /home/pi/Desktop` or press up twice (if saved)
-7.  Then `run sudo python WishBooth_v1a.py` or press up probably twice if saved
+7.  Then do `sudo python WishBooth_v1a.py` or press up probably twice if saved
 8.  WishBooth should be set up. Drop coin in to test.
 
 #Rob Spahr
