@@ -76,10 +76,9 @@ note: I have tried to leave all computers running but just switch off the monito
 #Tara Webb
 1.  Turn on computer (make sure logged in as DMDAdmin)
 2.  Turn on projector with remote
-3.  Open TSPS - this will engage Kinect - there's a calibration image on the desktop. It's stored as a TIFF file.
-To calibrate - there's some tricks to this, but it's not a huge thing if it's totally primed.  I will fill this info in later.
-Open Bowler_Trails app - should automatically run to the projector.
+3.  Open TSPS - this will engage Kinect.  Under Source tab, check box for "flip horizontal" AND "flip vertical" if necessary.  Contingency: if TSPS is frozen, close and re-open the program.
+Open Bowler_Trails app - should automatically run to the projector (set up in Processing preferences to go to Display 2).
 Contingency: if app doesn't work, open Bowler_Trails in Processing and run using "Present" in the Sketch dropdown menu. Note: make sure mirroring is in. If not, it's in the System Preferences > Displays > Arrangement > check Mirror Displays
-4.  Turn on switches for el-wire (2 of them)
+4.  Turn on switches for el-wire (2 of them), turn on switch to hat light on wall.  
 5.  Turn on projector with remote 
 
